@@ -46,7 +46,7 @@ This file provides the main configurations:
 To run the script, ensure you have the necessary Python libraries installed:
 
 ```
-pip install pandas requests web3 colorlog logging colorama
+pip install pandas requests web3 colorlog logging colorama openpyxl
 ```
 
 ## Usage
