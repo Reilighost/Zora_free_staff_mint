@@ -1,5 +1,5 @@
 
-# Zora-free-mint script created by [BBC™](https://t.me/CryptoBub_ble) 
+# Zora-free-mint script created by [BBC™](https://t.me/CryptoBub_ble) and his little rat friend
 
 ## Overview
 
