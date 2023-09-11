@@ -10,12 +10,12 @@
     "EXCEL_PATH": "Path to the Excel file which stores private key, proxy, and other account-related data. If this file doesn't exist, it will be created. Upon creation, TARGET_TXNS and ACCOUNT_DELAY values will be randomly set for each account."
   },
   "config": {
-    "MIN_TRANSACTION_DELAY": 180,
-    "MAX_TRANSACTION_DELAY": 240,
-    "MIN_ACCOUNT_DELAY": 8,
-    "MAX_ACCOUNT_DELAY": 15,
+    "MIN_TRANSACTION_DELAY": 380,
+    "MAX_TRANSACTION_DELAY": 1240,
+    "MIN_ACCOUNT_DELAY": 12,
+    "MAX_ACCOUNT_DELAY": 19,
     "MIN_TARGET_TXNS": 12,
-    "MAX_TARGET_TXNS": 16,
+    "MAX_TARGET_TXNS": 26,
     "SHUFFLE_ACCOUNTS": true,
     "EXCEL_PATH": "data.xlsx"
   },
