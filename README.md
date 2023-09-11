@@ -46,7 +46,14 @@ This file provides the main configurations:
 To run the script, ensure you have the necessary Python libraries installed:
 
 ```
+git clone https://github.com/Reilighost/Zora_free_staff_mint.git
+
+cd Zora_free_staff_mint
+
 pip install pandas requests web3 colorlog logging colorama openpyxl
+
+python main.py
+
 ```
 
 ## Usage
