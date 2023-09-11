@@ -46,7 +46,7 @@ This file provides the main configurations:
 To run the script, ensure you have the necessary Python libraries installed:
 
 ```
-git clone https://github.com/Reilighost/Zora_freemint.git
+git clone https://github.com/solidnetw/Zora_freemint/tree/patch-1.git
 
 pip install pandas requests web3 colorlog logging colorama openpyxl
 
